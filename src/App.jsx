@@ -1,5 +1,6 @@
 import React from 'react'
 import Contact from './Contact'
+import Navbar from "./Navbar"
 
 function App() {
   
@@ -7,8 +8,9 @@ function App() {
   return (
     <>
      <Contact />
+    <Navbar />
     </>
-  )
+   )
 }
 
 export default App
