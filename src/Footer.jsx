@@ -1,5 +1,5 @@
 export default function Footer() {
     return (
-        <p>Thank youuuuuuu</p>
+        <p>Thank youuuuuu .Come again</p>
     )
 }
