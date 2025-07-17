@@ -7,8 +7,10 @@ function App() {
   return (
     <>
     <Footer />
+     <Contact />
+    <Navbar />
     </>
-  )
+   )
 }
 
 export default App
