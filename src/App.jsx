@@ -1,11 +1,16 @@
+import React from 'react'
+import Contact from './Contact'
 import Navbar from "./Navbar"
+
 function App() {
   
 
   return (
-   <Navbar />
-
-  )
+    <>
+     <Contact />
+    <Navbar />
+    </>
+   )
 }
 
 export default App
