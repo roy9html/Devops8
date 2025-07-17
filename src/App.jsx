@@ -1,5 +1,6 @@
 import React from 'react'
 import Contact from './Contact'
+import Navbar from "./Navbar"
 
 function App() {
   
@@ -7,9 +8,8 @@ function App() {
   return (
     <>
      <Contact />
-      <h1>Welcome to the App</h1>
     </>
-  )
+   )
 }
 
-export default App;
+export default App
